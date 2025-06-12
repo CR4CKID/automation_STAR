@@ -1,0 +1,6 @@
+1_prefetch
+2_fastq
+3_aligned
+4_ReadsPerGenes
+5_ReadsPerGenes_GSM
+6_deseq2_results
