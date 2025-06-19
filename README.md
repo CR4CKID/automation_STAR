@@ -24,18 +24,14 @@ To run this project, make sure you have the following Python or R packages insta
 | `-c`     | ✘        | `32`    | Number of CPU cores |
 
 <br>
-*Datasets must be prepared in the format of DESeq2 output results <br><br>
+*Datasets must be prepared in the format of GSE, treat, control <br><br>
 
 Simple example :
-<pre lang="markdown"> hStouffer.py -d dataset_directory -o meta_dataset_fat </pre>
-
-More detail example :
-<pre lang="markdown"> hStouffer.py -d dataset_directory -o meta_dataset_max -r 10000 -c 64 -l max </pre>
+<pre lang="markdown"> automation_rna_seq_v2.py -f h_rad.xlsx -c 32 -g hs </pre>
 
 <br>
 
 
 ## Contact
 Daehee Kim : rlarl0240@knu.ac.kr <br>
-Jun-yeong Lee : junyeong@knu.ac.kr <br>
 Laboratory of Genome Architecture and Regulation, School of Life Sciences, College of Natural Sciences, Kyungpook National University
