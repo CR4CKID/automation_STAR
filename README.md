@@ -1,4 +1,4 @@
-# automation_STAR : the automated RNA-seq pipeline for identify differentially expressed genes (DEGs)
+# automation_STAR: An Automated RNA-seq Pipeline for the Identification of Differentially Expressed Genes (DEGs)
 
 <br>
 
