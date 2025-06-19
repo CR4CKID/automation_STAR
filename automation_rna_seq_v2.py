@@ -7,28 +7,6 @@
 # Description   : 
 #=============================================================================#
 
-"""
-
-1. GSM을 SRR로 변환
-2. SRR을 prefetch
-3. SRA 파일 fasterq-dump
-4. STAR로 align, fastq 파일 삭제, bam 파일 삭제
-5. ReadsPerGene 파일 각 GSM 별로 이동
-6. Deseq2 분석
-
-신경 써야 할 점
-- SRR이 없는 경우는 어떻게 할 것인가?
-- - SRR이 없는 경우는 제외하고 진행
-
-- SRR이 여러개인 경우는 어떻게 할 것인가?
-- - SRR이 여러개인 경우는 합쳐서 진행
-
-- Fastq 파일 single-end와 paired-end 구분
-
-"""
-
-
-
 import glob, random, os, time, argparse, requests
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -61,10 +39,10 @@ if not os.path.isdir("1_prefetch"):
     os.mkdir("1_prefetch")
 if not os.path.isdir("2_fastq"):
     os.mkdir("2_fastq")
-if not os.path.isdir("3_aligned"):
-    os.mkdir("3_aligned")
-if not os.path.isdir("4_ReadsPerGenes"):
-    os.mkdir("4_ReadsPerGenes")
+if not os.path.isdir("3_fastq_combined"):
+    os.mkdir("3_fastq_combined")
+if not os.path.isdir("4_aligned"):
+    os.mkdir("4_aligned")
 if not os.path.isdir("5_ReadsPerGenes_GSM"):
     os.mkdir("5_ReadsPerGenes_GSM")
 if not os.path.isdir("6_deseq2_results"):
