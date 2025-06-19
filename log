@@ -1,423 +1,51 @@
-2025-06-15T07:50:02 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T07:50:05 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:06 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T07:50:06 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T07:50:07 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T07:50:09 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:10 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T07:50:10 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T07:50:11 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T07:50:13 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:14 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T07:50:14 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T07:50:15 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T07:50:17 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:18 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T07:50:18 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T07:50:19 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T07:50:21 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:21 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T07:50:21 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T07:50:23 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T07:50:24 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:25 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T07:50:25 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T07:50:26 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T07:50:28 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:29 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T07:50:29 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T07:50:30 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T07:50:32 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:33 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T07:50:33 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T07:50:34 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T07:50:36 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:37 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T07:50:37 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T07:50:38 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T07:50:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:40 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T07:50:41 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T07:50:42 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T07:50:43 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:44 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T07:50:44 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T07:50:45 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T07:50:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:50:48 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T07:50:48 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
-2025-06-15T07:51:19 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T07:51:21 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:22 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T07:51:22 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T07:51:23 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T07:51:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:25 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T07:51:26 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T07:51:27 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T07:51:28 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:29 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T07:51:29 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T07:51:30 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T07:51:32 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:33 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T07:51:33 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T07:51:34 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T07:51:36 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:37 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T07:51:37 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T07:51:38 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T07:51:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:41 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T07:51:41 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T07:51:42 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T07:51:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:44 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T07:51:45 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T07:51:46 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T07:51:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:51:48 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T07:51:48 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
-2025-06-15T07:53:55 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T07:53:57 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:53:58 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T07:53:58 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T07:53:59 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T07:54:01 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:54:02 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T07:54:02 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T07:54:03 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T07:54:05 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:54:05 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T07:54:06 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T07:54:07 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T07:54:08 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:54:09 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T07:54:09 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T07:54:10 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T07:54:12 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:54:13 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T07:54:13 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T07:54:14 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T07:54:16 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T07:54:17 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T07:54:17 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
-spots read      : 11,029,335
-reads read      : 22,058,670
-reads written   : 11,029,335
-reads 0-length  : 11,029,335
-spots read      : 19,169,323
-reads read      : 38,338,646
-reads written   : 19,169,323
-reads 0-length  : 19,169,323
-spots read      : 27,099,544
-reads read      : 54,199,088
-reads written   : 27,099,544
-reads 0-length  : 27,099,544
-spots read      : 18,370,606
-reads read      : 36,741,212
-reads written   : 18,370,606
-reads 0-length  : 18,370,606
-spots read      : 18,568,313
-reads read      : 37,136,626
-reads written   : 18,568,313
-reads 0-length  : 18,568,313
-spots read      : 19,021,458
-reads read      : 38,042,916
-reads written   : 19,021,458
-reads 0-length  : 19,021,458
-
-GSM1836110 fastq combining end
-
-GSM1836111 fastq combining end
-
-GSM1836112 fastq combining end
-
-GSM1836104 fastq combining end
-
-GSM1836105 fastq combining end
-
-GSM1836106 fastq combining end
-2025-06-15T08:05:42 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T08:05:43 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:05:44 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T08:05:44 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T08:05:45 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T08:05:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:05:48 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T08:05:48 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T08:05:49 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T08:05:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:05:52 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T08:05:52 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T08:05:53 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T08:05:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:05:56 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T08:05:56 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T08:05:57 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T08:05:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:05:59 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T08:05:59 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T08:06:00 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T08:06:02 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:03 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T08:06:03 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T08:06:04 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T08:06:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:07 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T08:06:07 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T08:06:08 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T08:06:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:11 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T08:06:11 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T08:06:12 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T08:06:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:15 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T08:06:15 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T08:06:16 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T08:06:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:18 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T08:06:19 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T08:06:20 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T08:06:21 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:22 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T08:06:22 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T08:06:23 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T08:06:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:06:26 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T08:06:26 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
-2025-06-15T08:09:23 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T08:09:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:26 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T08:09:26 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T08:09:27 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T08:09:29 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:30 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T08:09:30 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T08:09:31 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T08:09:33 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:34 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T08:09:34 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T08:09:35 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T08:09:36 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:37 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T08:09:37 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T08:09:39 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T08:09:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:41 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T08:09:41 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T08:09:42 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T08:09:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:45 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T08:09:45 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T08:09:46 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T08:09:48 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:49 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T08:09:49 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T08:09:50 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T08:09:52 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:09:53 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T08:09:53 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
-2025-06-15T08:22:34 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T08:22:36 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:37 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T08:22:37 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T08:22:38 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T08:22:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:41 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T08:22:41 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T08:22:42 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T08:22:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:45 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T08:22:45 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T08:22:46 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T08:22:48 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:49 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T08:22:49 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T08:22:50 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T08:22:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:52 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T08:22:52 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T08:22:53 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T08:22:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:22:56 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T08:22:56 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
-
-GSM1836110 fastq combining end
-
-GSM1836111 fastq combining end
-
-GSM1836112 fastq combining end
-
-GSM1836104 fastq combining end
-
-GSM1836105 fastq combining end
-
-GSM1836106 fastq combining end
-2025-06-15T08:26:10 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T08:26:12 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:13 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T08:26:13 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T08:26:14 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T08:26:16 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:16 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T08:26:16 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T08:26:18 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T08:26:19 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:20 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T08:26:20 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T08:26:21 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T08:26:23 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:24 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T08:26:24 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T08:26:25 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T08:26:27 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:28 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T08:26:28 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T08:26:29 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T08:26:31 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:31 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T08:26:32 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T08:26:33 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T08:26:34 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:35 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T08:26:35 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T08:26:36 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T08:26:39 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:40 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T08:26:40 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T08:26:41 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T08:26:43 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:44 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T08:26:44 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T08:26:45 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T08:26:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:48 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T08:26:48 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T08:26:49 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T08:26:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:51 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T08:26:52 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T08:26:53 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T08:26:54 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:26:55 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T08:26:55 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
-2025-06-15T08:30:05 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T08:30:07 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:08 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T08:30:08 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T08:30:09 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T08:30:11 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:12 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T08:30:12 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T08:30:13 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T08:30:15 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:15 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T08:30:15 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T08:30:17 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T08:30:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:19 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T08:30:19 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T08:30:20 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T08:30:22 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:23 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T08:30:23 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T08:30:24 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T08:30:26 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:27 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T08:30:27 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T08:30:28 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T08:30:30 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:31 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T08:30:31 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T08:30:32 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T08:30:34 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:30:34 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T08:30:34 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
-2025-06-15T08:40:01 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T08:40:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:04 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T08:40:04 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T08:40:05 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T08:40:07 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:08 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T08:40:08 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T08:40:09 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T08:40:11 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:12 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T08:40:12 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T08:40:13 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T08:40:15 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:15 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T08:40:16 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T08:40:17 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T08:40:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:19 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T08:40:19 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T08:40:20 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T08:40:22 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:40:23 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T08:40:23 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
-
-GSM1836110 fastq combining end
-
-GSM1836111 fastq combining end
-
-GSM1836112 fastq combining end
-
-GSM1836104 fastq combining end
-
-GSM1836105 fastq combining end
-
-GSM1836106 fastq combining end
-2025-06-15T08:41:57 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T08:41:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:41:59 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T08:42:00 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T08:42:01 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T08:42:02 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:03 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T08:42:03 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T08:42:04 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T08:42:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:07 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T08:42:07 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T08:42:08 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T08:42:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:11 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T08:42:11 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T08:42:12 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T08:42:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:14 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T08:42:15 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T08:42:16 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T08:42:17 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:18 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T08:42:18 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T08:42:19 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T08:42:21 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:22 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T08:42:22 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T08:42:23 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T08:42:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:26 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T08:42:26 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T08:42:27 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T08:42:29 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:30 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T08:42:30 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T08:42:31 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T08:42:32 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:33 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T08:42:33 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T08:42:34 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T08:42:36 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:37 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T08:42:37 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T08:42:38 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T08:42:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:41 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T08:42:41 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
+2025-06-19T04:36:33 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
+2025-06-19T04:36:34 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:35 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
+2025-06-19T04:36:35 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
+2025-06-19T04:36:36 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
+2025-06-19T04:36:38 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:39 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
+2025-06-19T04:36:39 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
+2025-06-19T04:36:40 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
+2025-06-19T04:36:42 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:43 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
+2025-06-19T04:36:43 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
+2025-06-19T04:36:44 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
+2025-06-19T04:36:46 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:47 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
+2025-06-19T04:36:47 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
+2025-06-19T04:36:48 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
+2025-06-19T04:36:50 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:51 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
+2025-06-19T04:36:51 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
+2025-06-19T04:36:52 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
+2025-06-19T04:36:54 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:54 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
+2025-06-19T04:36:55 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
+2025-06-19T04:36:56 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
+2025-06-19T04:36:57 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:36:58 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
+2025-06-19T04:36:58 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
+2025-06-19T04:36:59 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
+2025-06-19T04:37:01 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:02 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
+2025-06-19T04:37:02 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
+2025-06-19T04:37:03 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
+2025-06-19T04:37:05 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:06 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
+2025-06-19T04:37:06 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
+2025-06-19T04:37:07 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
+2025-06-19T04:37:09 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:10 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
+2025-06-19T04:37:10 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
+2025-06-19T04:37:11 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
+2025-06-19T04:37:13 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:13 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
+2025-06-19T04:37:14 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
+2025-06-19T04:37:15 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
+2025-06-19T04:37:16 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:17 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
+2025-06-19T04:37:17 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
 ################################################################################
 GSM3488751 already combined fastq file exists
 ################################################################################
@@ -430,38 +58,50 @@ GSM3488756 already combined fastq file exists
 GSM3488757 already combined fastq file exists
 ################################################################################
 GSM3488758 already combined fastq file exists
-2025-06-15T08:42:42 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T08:42:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:45 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T08:42:45 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T08:42:46 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T08:42:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:48 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T08:42:48 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T08:42:50 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T08:42:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:52 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T08:42:52 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T08:42:53 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T08:42:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:42:56 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T08:42:56 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T08:42:57 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T08:42:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:00 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T08:43:00 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T08:43:01 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T08:43:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:03 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T08:43:04 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T08:43:05 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T08:43:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:07 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T08:43:07 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T08:43:08 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T08:43:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:11 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T08:43:11 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
+################################################################################
+GSM3488751 already aligned
+################################################################################
+GSM3488752 already aligned
+################################################################################
+GSM3488753 already aligned
+################################################################################
+GSM3488756 already aligned
+################################################################################
+GSM3488757 already aligned
+################################################################################
+GSM3488758 already aligned
+2025-06-19T04:37:18 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
+2025-06-19T04:37:20 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:21 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
+2025-06-19T04:37:21 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
+2025-06-19T04:37:22 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
+2025-06-19T04:37:24 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:25 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
+2025-06-19T04:37:25 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
+2025-06-19T04:37:26 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
+2025-06-19T04:37:28 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:29 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
+2025-06-19T04:37:29 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
+2025-06-19T04:37:30 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
+2025-06-19T04:37:32 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:33 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
+2025-06-19T04:37:33 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
+2025-06-19T04:37:34 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
+2025-06-19T04:37:35 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:36 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
+2025-06-19T04:37:36 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
+2025-06-19T04:37:37 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
+2025-06-19T04:37:39 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:40 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
+2025-06-19T04:37:40 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
+2025-06-19T04:37:41 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
+2025-06-19T04:37:43 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:44 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
+2025-06-19T04:37:44 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
+2025-06-19T04:37:45 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
+2025-06-19T04:37:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:48 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
+2025-06-19T04:37:48 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
 ################################################################################
 GSM4321727 already combined fastq file exists
 ################################################################################
@@ -478,30 +118,46 @@ GSM4321724 already combined fastq file exists
 GSM4321725 already combined fastq file exists
 ################################################################################
 GSM4321726 already combined fastq file exists
-2025-06-15T08:43:12 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T08:43:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:15 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T08:43:15 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T08:43:16 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T08:43:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:18 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T08:43:19 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T08:43:20 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T08:43:21 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:22 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T08:43:22 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T08:43:23 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T08:43:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:26 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T08:43:26 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T08:43:27 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T08:43:29 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:30 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T08:43:30 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T08:43:31 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T08:43:33 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:43:34 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T08:43:34 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
+################################################################################
+GSM4321727 already aligned
+################################################################################
+GSM4321728 already aligned
+################################################################################
+GSM4321729 already aligned
+################################################################################
+GSM4321730 already aligned
+################################################################################
+GSM4321723 already aligned
+################################################################################
+GSM4321724 already aligned
+################################################################################
+GSM4321725 already aligned
+################################################################################
+GSM4321726 already aligned
+2025-06-19T04:37:49 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
+2025-06-19T04:37:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:52 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
+2025-06-19T04:37:52 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
+2025-06-19T04:37:53 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
+2025-06-19T04:37:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:55 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
+2025-06-19T04:37:55 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
+2025-06-19T04:37:57 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
+2025-06-19T04:37:58 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:37:59 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
+2025-06-19T04:37:59 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
+2025-06-19T04:38:00 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
+2025-06-19T04:38:02 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:38:03 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
+2025-06-19T04:38:03 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
+2025-06-19T04:38:04 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
+2025-06-19T04:38:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:38:07 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
+2025-06-19T04:38:07 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
+2025-06-19T04:38:08 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
+2025-06-19T04:38:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2025-06-19T04:38:11 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
+2025-06-19T04:38:11 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
 ################################################################################
 GSM1836110 already combined fastq file exists
 ################################################################################
@@ -514,291 +170,15 @@ GSM1836104 already combined fastq file exists
 GSM1836105 already combined fastq file exists
 ################################################################################
 GSM1836106 already combined fastq file exists
-2025-06-15T08:55:46 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T08:55:48 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:55:48 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T08:55:49 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T08:55:50 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T08:55:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:55:52 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T08:55:52 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T08:55:53 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T08:55:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:55:56 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T08:55:56 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T08:55:57 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T08:55:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:00 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T08:56:00 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T08:56:01 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T08:56:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:03 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T08:56:04 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T08:56:05 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T08:56:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:07 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T08:56:07 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T08:56:08 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T08:56:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:11 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T08:56:11 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T08:56:12 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T08:56:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:15 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T08:56:15 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T08:56:16 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T08:56:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:19 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T08:56:19 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T08:56:20 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T08:56:22 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:22 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T08:56:23 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T08:56:24 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T08:56:25 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:26 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T08:56:26 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T08:56:27 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T08:56:29 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:30 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T08:56:30 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
 ################################################################################
-GSM3488751 already combined fastq file exists
+GSM1836110 already aligned
 ################################################################################
-GSM3488752 already combined fastq file exists
+GSM1836111 already aligned
 ################################################################################
-GSM3488753 already combined fastq file exists
+GSM1836112 already aligned
 ################################################################################
-GSM3488756 already combined fastq file exists
+GSM1836104 already aligned
 ################################################################################
-GSM3488757 already combined fastq file exists
+GSM1836105 already aligned
 ################################################################################
-GSM3488758 already combined fastq file exists
-2025-06-15T08:56:31 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T08:56:33 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:34 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T08:56:34 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T08:56:35 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T08:56:37 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:37 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T08:56:38 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T08:56:39 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T08:56:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:41 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T08:56:41 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T08:56:42 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T08:56:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:45 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T08:56:45 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T08:56:46 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T08:56:48 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:49 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T08:56:49 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T08:56:50 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T08:56:52 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:53 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T08:56:53 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T08:56:54 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T08:56:56 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:56:56 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T08:56:56 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T08:56:57 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T08:56:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:00 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T08:57:00 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
-################################################################################
-GSM4321727 already combined fastq file exists
-################################################################################
-GSM4321728 already combined fastq file exists
-################################################################################
-GSM4321729 already combined fastq file exists
-################################################################################
-GSM4321730 already combined fastq file exists
-################################################################################
-GSM4321723 already combined fastq file exists
-################################################################################
-GSM4321724 already combined fastq file exists
-################################################################################
-GSM4321725 already combined fastq file exists
-################################################################################
-GSM4321726 already combined fastq file exists
-2025-06-15T08:57:01 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T08:57:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:04 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T08:57:04 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T08:57:05 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T08:57:07 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:07 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T08:57:08 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T08:57:09 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T08:57:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:11 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T08:57:11 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T08:57:12 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T08:57:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:15 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T08:57:15 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T08:57:16 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T08:57:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:19 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T08:57:19 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T08:57:20 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T08:57:22 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:23 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T08:57:23 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
-################################################################################
-GSM1836110 already combined fastq file exists
-################################################################################
-GSM1836111 already combined fastq file exists
-################################################################################
-GSM1836112 already combined fastq file exists
-################################################################################
-GSM1836104 already combined fastq file exists
-################################################################################
-GSM1836105 already combined fastq file exists
-################################################################################
-GSM1836106 already combined fastq file exists
-2025-06-15T08:57:38 prefetch.3.1.1: 1) Resolving 'SRR8242570'...
-2025-06-15T08:57:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:41 prefetch.3.1.1: 1) 'SRR8242570' is found locally 
-2025-06-15T08:57:41 prefetch.3.1.1: 'SRR8242570' has 0 unresolved dependencies
-2025-06-15T08:57:42 prefetch.3.1.1: 1) Resolving 'SRR8242571'...
-2025-06-15T08:57:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:45 prefetch.3.1.1: 1) 'SRR8242571' is found locally 
-2025-06-15T08:57:45 prefetch.3.1.1: 'SRR8242571' has 0 unresolved dependencies
-2025-06-15T08:57:46 prefetch.3.1.1: 1) Resolving 'SRR8242572'...
-2025-06-15T08:57:48 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:48 prefetch.3.1.1: 1) 'SRR8242572' is found locally 
-2025-06-15T08:57:49 prefetch.3.1.1: 'SRR8242572' has 0 unresolved dependencies
-2025-06-15T08:57:50 prefetch.3.1.1: 1) Resolving 'SRR8242573'...
-2025-06-15T08:57:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:52 prefetch.3.1.1: 1) 'SRR8242573' is found locally 
-2025-06-15T08:57:52 prefetch.3.1.1: 'SRR8242573' has 0 unresolved dependencies
-2025-06-15T08:57:53 prefetch.3.1.1: 1) Resolving 'SRR8242574'...
-2025-06-15T08:57:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:57:56 prefetch.3.1.1: 1) 'SRR8242574' is found locally 
-2025-06-15T08:57:56 prefetch.3.1.1: 'SRR8242574' has 0 unresolved dependencies
-2025-06-15T08:57:57 prefetch.3.1.1: 1) Resolving 'SRR8242575'...
-2025-06-15T08:57:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:00 prefetch.3.1.1: 1) 'SRR8242575' is found locally 
-2025-06-15T08:58:00 prefetch.3.1.1: 'SRR8242575' has 0 unresolved dependencies
-2025-06-15T08:58:01 prefetch.3.1.1: 1) Resolving 'SRR8242580'...
-2025-06-15T08:58:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:03 prefetch.3.1.1: 1) 'SRR8242580' is found locally 
-2025-06-15T08:58:04 prefetch.3.1.1: 'SRR8242580' has 0 unresolved dependencies
-2025-06-15T08:58:05 prefetch.3.1.1: 1) Resolving 'SRR8242581'...
-2025-06-15T08:58:06 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:07 prefetch.3.1.1: 1) 'SRR8242581' is found locally 
-2025-06-15T08:58:07 prefetch.3.1.1: 'SRR8242581' has 0 unresolved dependencies
-2025-06-15T08:58:08 prefetch.3.1.1: 1) Resolving 'SRR8242582'...
-2025-06-15T08:58:10 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:11 prefetch.3.1.1: 1) 'SRR8242582' is found locally 
-2025-06-15T08:58:11 prefetch.3.1.1: 'SRR8242582' has 0 unresolved dependencies
-2025-06-15T08:58:12 prefetch.3.1.1: 1) Resolving 'SRR8242583'...
-2025-06-15T08:58:14 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:15 prefetch.3.1.1: 1) 'SRR8242583' is found locally 
-2025-06-15T08:58:15 prefetch.3.1.1: 'SRR8242583' has 0 unresolved dependencies
-2025-06-15T08:58:16 prefetch.3.1.1: 1) Resolving 'SRR8242584'...
-2025-06-15T08:58:18 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:19 prefetch.3.1.1: 1) 'SRR8242584' is found locally 
-2025-06-15T08:58:19 prefetch.3.1.1: 'SRR8242584' has 0 unresolved dependencies
-2025-06-15T08:58:20 prefetch.3.1.1: 1) Resolving 'SRR8242585'...
-2025-06-15T08:58:22 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T08:58:22 prefetch.3.1.1: 1) 'SRR8242585' is found locally 
-2025-06-15T08:58:23 prefetch.3.1.1: 'SRR8242585' has 0 unresolved dependencies
-################################################################################
-GSM3488751 already combined fastq file exists
-################################################################################
-GSM3488752 already combined fastq file exists
-################################################################################
-GSM3488753 already combined fastq file exists
-################################################################################
-GSM3488756 already combined fastq file exists
-################################################################################
-GSM3488757 already combined fastq file exists
-################################################################################
-GSM3488758 already combined fastq file exists
-2025-06-15T09:03:38 prefetch.3.1.1: 1) Resolving 'SRR11116155'...
-2025-06-15T09:03:40 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:41 prefetch.3.1.1: 1) 'SRR11116155' is found locally 
-2025-06-15T09:03:41 prefetch.3.1.1: 'SRR11116155' has 0 unresolved dependencies
-2025-06-15T09:03:42 prefetch.3.1.1: 1) Resolving 'SRR11116156'...
-2025-06-15T09:03:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:44 prefetch.3.1.1: 1) 'SRR11116156' is found locally 
-2025-06-15T09:03:45 prefetch.3.1.1: 'SRR11116156' has 0 unresolved dependencies
-2025-06-15T09:03:46 prefetch.3.1.1: 1) Resolving 'SRR11116157'...
-2025-06-15T09:03:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:48 prefetch.3.1.1: 1) 'SRR11116157' is found locally 
-2025-06-15T09:03:48 prefetch.3.1.1: 'SRR11116157' has 0 unresolved dependencies
-2025-06-15T09:03:49 prefetch.3.1.1: 1) Resolving 'SRR11116158'...
-2025-06-15T09:03:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:52 prefetch.3.1.1: 1) 'SRR11116158' is found locally 
-2025-06-15T09:03:52 prefetch.3.1.1: 'SRR11116158' has 0 unresolved dependencies
-2025-06-15T09:03:53 prefetch.3.1.1: 1) Resolving 'SRR11116151'...
-2025-06-15T09:03:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:56 prefetch.3.1.1: 1) 'SRR11116151' is found locally 
-2025-06-15T09:03:56 prefetch.3.1.1: 'SRR11116151' has 0 unresolved dependencies
-2025-06-15T09:03:57 prefetch.3.1.1: 1) Resolving 'SRR11116152'...
-2025-06-15T09:03:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:03:59 prefetch.3.1.1: 1) 'SRR11116152' is found locally 
-2025-06-15T09:04:00 prefetch.3.1.1: 'SRR11116152' has 0 unresolved dependencies
-2025-06-15T09:04:01 prefetch.3.1.1: 1) Resolving 'SRR11116153'...
-2025-06-15T09:04:04 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:04:05 prefetch.3.1.1: 1) 'SRR11116153' is found locally 
-2025-06-15T09:04:05 prefetch.3.1.1: 'SRR11116153' has 0 unresolved dependencies
-2025-06-15T09:04:06 prefetch.3.1.1: 1) Resolving 'SRR11116154'...
-2025-06-15T09:04:08 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:04:08 prefetch.3.1.1: 1) 'SRR11116154' is found locally 
-2025-06-15T09:04:09 prefetch.3.1.1: 'SRR11116154' has 0 unresolved dependencies
-################################################################################
-GSM4321727 already combined fastq file exists
-################################################################################
-GSM4321728 already combined fastq file exists
-################################################################################
-GSM4321729 already combined fastq file exists
-################################################################################
-GSM4321730 already combined fastq file exists
-################################################################################
-GSM4321723 already combined fastq file exists
-################################################################################
-GSM4321724 already combined fastq file exists
-################################################################################
-GSM4321725 already combined fastq file exists
-################################################################################
-GSM4321726 already combined fastq file exists
-2025-06-15T09:25:42 prefetch.3.1.1: 1) Resolving 'SRR2569772'...
-2025-06-15T09:25:44 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:25:44 prefetch.3.1.1: 1) 'SRR2569772' is found locally 
-2025-06-15T09:25:45 prefetch.3.1.1: 'SRR2569772' has 0 unresolved dependencies
-2025-06-15T09:25:46 prefetch.3.1.1: 1) Resolving 'SRR2569773'...
-2025-06-15T09:25:47 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:25:48 prefetch.3.1.1: 1) 'SRR2569773' is found locally 
-2025-06-15T09:25:48 prefetch.3.1.1: 'SRR2569773' has 0 unresolved dependencies
-2025-06-15T09:25:49 prefetch.3.1.1: 1) Resolving 'SRR2569774'...
-2025-06-15T09:25:51 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:25:52 prefetch.3.1.1: 1) 'SRR2569774' is found locally 
-2025-06-15T09:25:52 prefetch.3.1.1: 'SRR2569774' has 0 unresolved dependencies
-2025-06-15T09:25:53 prefetch.3.1.1: 1) Resolving 'SRR2569766'...
-2025-06-15T09:25:55 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:25:56 prefetch.3.1.1: 1) 'SRR2569766' is found locally 
-2025-06-15T09:25:56 prefetch.3.1.1: 'SRR2569766' has 0 unresolved dependencies
-2025-06-15T09:25:57 prefetch.3.1.1: 1) Resolving 'SRR2569767'...
-2025-06-15T09:25:59 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:26:00 prefetch.3.1.1: 1) 'SRR2569767' is found locally 
-2025-06-15T09:26:00 prefetch.3.1.1: 'SRR2569767' has 0 unresolved dependencies
-2025-06-15T09:26:01 prefetch.3.1.1: 1) Resolving 'SRR2569768'...
-2025-06-15T09:26:03 prefetch.3.1.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
-2025-06-15T09:26:03 prefetch.3.1.1: 1) 'SRR2569768' is found locally 
-2025-06-15T09:26:04 prefetch.3.1.1: 'SRR2569768' has 0 unresolved dependencies
-################################################################################
-GSM1836110 already combined fastq file exists
-################################################################################
-GSM1836111 already combined fastq file exists
-################################################################################
-GSM1836112 already combined fastq file exists
-################################################################################
-GSM1836104 already combined fastq file exists
-################################################################################
-GSM1836105 already combined fastq file exists
-################################################################################
-GSM1836106 already combined fastq file exists
+GSM1836106 already aligned
