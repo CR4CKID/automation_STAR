@@ -10,29 +10,19 @@ To run this project, make sure you have the following Python or R packages insta
 |----------|--------------|-----------------------------------------------------------------------------|
 | `numpy`  | >=2.0.0       | Core library for numerical computing and array operations                  |
 | `pandas` | >=2.2.2       | Powerful data structures for data analysis and manipulation                 |
-| `prefetch` | >=3.1.1       |             |
-| `fasterq-dump`   | >=3.1.1      |                            |
-| `STAR`  | >=2.7.10a      |    |
+| `prefetch` | >=3.1.1       |	NCBI SRA Toolkit utility for downloading sequencing data from the Sequence Read Archive (SRA) |
+| `fasterq-dump`   | >=3.1.1      |SRA Toolkit utility for converting SRA files to fastq format |
+| `STAR`  | >=2.7.10a      | Ultrafast universal RNA-seq aligner for mapping sequencing reads to a reference genome |
+| `DESeq2`  | >=1.34.0      | R package for differential gene expression analysis based on the negative binomial model |
 
-<br>
-Prerequisities can be simply install using requirements.txt
-
-<pre lang="markdown"> pip install -r requirements.txt </pre>
-<br>
 
 ## Usage
 | Argument | Required | Default | Description |
 |----------|----------|---------|-------------|
-| `-d`     | ✔        | –       | Directory containing DESeq2 result files |
-| `-p`     | ✘        | `False` | p-value threshold (e.g., 3 = 1e-3) |
-| `-o`     | ✔        | –       | Output file name |
-| `-m`     | ✘        | `False` | Group size |
-| `-r`     | ✘        | `1000`  | Number of repetitions |
-| `-n`     | ✘        | `False` | Apply scaling (`True` / `False`) |
-| `-t`     | ✘        | `"stouffer"` | Method for p-value combination:<br>`fisher`, `pearson`, `tippett`, `stouffer`, `mudholkar_george`, `median`, `percentile_70` |
+| `-f`     | ✔        | –       | Directory containing DESeq2 result files |
+| `-g`     | ✔        | `mm` | genome (hs, mm, sc, dm, mg, xl)) |
 | `-c`     | ✘        | `32`    | Number of CPU cores |
-| `-w`     | ✘        | `True`  | Apply p-value capping (`True` / `False`) |
-| `-l`     | ✘        | `False` | Max or min cutoff threshold |
+
 <br>
 *Datasets must be prepared in the format of DESeq2 output results <br><br>
 
