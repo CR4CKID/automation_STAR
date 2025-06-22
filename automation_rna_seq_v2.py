@@ -7,6 +7,28 @@
 # Description   : 
 #=============================================================================#
 
+"""
+
+1. GSM을 SRR로 변환
+2. SRR을 prefetch
+3. SRA 파일 fasterq-dump
+4. STAR로 align, fastq 파일 삭제, bam 파일 삭제
+5. ReadsPerGene 파일 각 GSM 별로 이동
+6. Deseq2 분석
+
+신경 써야 할 점
+- SRR이 없는 경우는 어떻게 할 것인가?
+- - SRR이 없는 경우는 제외하고 진행
+
+- SRR이 여러개인 경우는 어떻게 할 것인가?
+- - SRR이 여러개인 경우는 합쳐서 진행
+
+- Fastq 파일 single-end와 paired-end 구분
+
+"""
+
+
+
 import glob, random, os, time, argparse, requests
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -125,7 +147,7 @@ df = df.drop(columns=['gse_index'])
 #=============================================================================#
 
 # GSM to SRR 변환
-gse_gsm_dict = df.groupby('GSE').agg({
+gse_gsm_dict = df.groupby('GSE_unique').agg({
     'Treat': lambda x: x.iloc[0].split(','),
     'Control': lambda x: x.iloc[0].split(',')
     
