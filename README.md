@@ -8,7 +8,6 @@ To run this project, make sure you have the following Python or R packages insta
 
 | Package  | Version (>=) | Description                                                                 |
 |----------|--------------|-----------------------------------------------------------------------------|
-| `numpy`  | >=2.0.0       | Core library for numerical computing and array operations                  |
 | `pandas` | >=2.2.2       | Powerful data structures for data analysis and manipulation                 |
 | `prefetch` | >=3.1.1       |	NCBI SRA Toolkit utility for downloading sequencing data from the Sequence Read Archive (SRA) |
 | `fasterq-dump`   | >=3.1.1      |SRA Toolkit utility for converting SRA files to fastq format |
